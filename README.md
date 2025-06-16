@@ -19,11 +19,6 @@
 
 <h1 align="center">Olá Devs, seja bem vindo ao meu perfil do Github 👋</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <p align="left">-📚 Estou me dedicando ao aprendizado de ADS, com o objetivo de aprimorar minhas habilidades e expandir meus conhecimentos profissionais.</p>
 
